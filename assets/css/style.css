@@ -795,6 +795,10 @@ section {
     padding-left: 0;
     padding-right: 0;
   }
+  .about .caro {
+
+    max-height:750px
+  }
 }
 
 @media (max-width: 992px) {
@@ -803,6 +807,13 @@ section {
   }
   .about .accordion-list {
     padding-bottom: 30px;
+  }
+  .about .caro {
+
+    max-height:400px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
   }
 }
 
