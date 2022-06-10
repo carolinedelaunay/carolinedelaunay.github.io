@@ -1073,7 +1073,7 @@ margin-right: auto;
 
 .events .event-item .price {
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Arial", sans-serif;
   font-weight: 700;
   margin-bottom: 15px;
 }
@@ -1293,7 +1293,7 @@ margin-right: auto;
   color: #6c665c;
   position: relative;
   padding-bottom: 10px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Arial", sans-serif;
 }
 
 .chefs .member h4::after {
@@ -1385,7 +1385,7 @@ margin-right: auto;
   font-weight: bold;
   margin: 10px 0 5px 0;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Arial", sans-serif;
 }
 
 .testimonials .testimonial-item h4 {
@@ -1486,7 +1486,7 @@ margin-right: auto;
   font-weight: 600;
   margin-bottom: 5px;
   color: #433f39;
-  font-family: "Poppins", sans-serif;
+  font-family: "Arial", sans-serif;
 }
 
 .contact .info p {
