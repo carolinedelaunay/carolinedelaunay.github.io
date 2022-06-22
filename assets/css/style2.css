@@ -33,6 +33,20 @@ font-family: "Cabin Sketch", sans-serif;
 font-weight: 300;
 }
 
+.text-content {
+  font-family: "Arial", sans-serif;
+  font-size: 15px;
+  color: #848484;
+}
+
+.service-title h1 {
+  font-family: "Cabin Sketch", sans-serif;
+  text-align: center;
+  color: #5f5950;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
