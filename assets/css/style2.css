@@ -39,6 +39,14 @@ font-weight: 300;
   color: #848484;
 }
 
+.service-title {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
 .service-title h1 {
   font-family: "Cabin Sketch", sans-serif;
   text-align: center;
@@ -476,7 +484,7 @@ font-weight: 300;
 }
 
 #hero h2,h1 span {
-  color: #ffb03b;
+  color: #91ad97;
 }
 
 #hero p {
