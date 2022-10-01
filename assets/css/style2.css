@@ -17,6 +17,8 @@ a {
   color: #ffb03b;
 }
 
+.highlighted { font-weight: bold; color: #91ad97;}
+
 a:hover {
   color: #ffc56e;
   text-decoration: none;
@@ -37,6 +39,12 @@ font-weight: 300;
   font-family: "Arial", sans-serif;
   font-size: 15px;
   color: #848484;
+}
+
+.text-content-plus {
+  font-family: "Arial", sans-serif;
+  font-size: 15px;
+  color: black;
 }
 
 .service-title {
