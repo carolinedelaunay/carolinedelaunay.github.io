@@ -37,8 +37,10 @@ font-weight: 300;
 
 .text-content {
   font-family: "Arial", sans-serif;
-  font-size: 15px;
-  color: #848484;
+  font-size: 17px;
+  /*color: #848484*/
+  color: black;
+  line-height: 32px;
 }
 
 .text-content-plus {
@@ -452,7 +454,7 @@ font-weight: 300;
 
 #hero .carousel-item::before {
   content: '';
-  background-color: rgba(12, 11, 10, 0.5);
+  background-color: rgba(22, 11, 10, 0.4);
   position: absolute;
   top: 0;
   right: 0;
@@ -620,10 +622,11 @@ section {
   font-size: 32px;
   font-weight: 700;
   color: #5f5950;
+  border: 2px solid #91ad97;background-color: #a7beac;color: white;
 }
 
 .section-title h2 span {
-  color: #91ad97;
+  /*color: #91ad97;*/
 }
 
 .section-title p {
