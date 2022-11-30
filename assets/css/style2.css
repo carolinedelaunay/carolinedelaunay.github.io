@@ -39,14 +39,29 @@ font-weight: 300;
   font-family: "Arial", sans-serif;
   font-size: 17px;
   /*color: #848484*/
-  color: black;
-  line-height: 32px;
+  color: #6b6b6b;
+  line-height: 30px;
 }
 
 .text-content-plus {
   font-family: "Arial", sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   color: #6b6b6b;
+  line-height: 30px;
+/*  color: #6b6b6b;*/
+}
+
+.framed {
+  border: 2px solid /*#91ad97*/#a7beac;background-color: #a7beac;color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    color: #333;
+    background-color: #333;
 }
 
 .service-title {
@@ -622,7 +637,6 @@ section {
   font-size: 32px;
   font-weight: 700;
   color: #5f5950;
-  border: 2px solid #91ad97;background-color: #a7beac;color: white;
 }
 
 .section-title h2 span {
