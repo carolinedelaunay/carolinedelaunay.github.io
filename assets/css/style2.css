@@ -43,7 +43,9 @@ h1, h2, h3, h4, h5, h6 {
 font-family: 'Indie Flower', cursive;
 font-family: 'Neucha', cursive;
 font-family: "Cabin Sketch", sans-serif;
-font-family: "Lato", sans-serif;*/
+font-family: "Lato", sans-serif;
+font-family: "Reenie Beanie", sans-serif;
+*/
 font-family: "Cabin Sketch", sans-serif;
 font-weight: 300;
 }
@@ -56,6 +58,22 @@ font-weight: 300;
   line-height: 30px;
 }
 
+.title-framed{
+  font-family: "Cabin Sketch", sans-serif;
+  font-size: 28px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #a7beac;background-color: #a7beac;color: white;
+}
+
 .text-content-plus {
   font-family: "Arial", sans-serif;
   font-size: 17px;
@@ -64,11 +82,12 @@ font-weight: 300;
 /*  color: #6b6b6b;*/
 }
 
-.framed {
-  border: 2px solid /*#91ad97*/#a7beac;background-color: #a7beac;color: white;
+/* .framed {
+  border: 2px solid #a7beac;background-color: #a7beac;color: white;
   padding-left: 15px;
   padding-right: 15px;
 }
+*/
 
 hr {
     border: none;
@@ -512,8 +531,6 @@ hr {
   /*font-family: 'Indie Flower', cursive;
 /*font-family: 'Neucha', cursive;
    font-family: "Cabin Sketch", sans-serif;
-
-
  font-family: "Homemade Apple", sans-serif; */
   color: #fff;
   margin-bottom: 30px;
@@ -650,6 +667,12 @@ section {
   font-size: 32px;
   font-weight: 700;
   color: #5f5950;
+  border: 2px solid #a7beac;background-color: #a7beac;color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .section-title h2 span {
