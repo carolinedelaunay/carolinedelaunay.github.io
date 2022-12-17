@@ -74,6 +74,10 @@ font-weight: 300;
   border: 2px solid #a7beac;background-color: #a7beac;color: white;
 }
 
+.scoped{
+  max-width: 100px;
+}
+
 .text-content-plus {
   font-family: "Arial", sans-serif;
   font-size: 17px;
